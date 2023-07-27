@@ -22,3 +22,7 @@ window.alert(5 + 6);
 </html> 
 
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
